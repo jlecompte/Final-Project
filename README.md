@@ -1,3 +1,3 @@
 # Hello-World
 First repository
-First time editing this readme file.
+First time editing this README file.
